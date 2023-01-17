@@ -1,0 +1,13 @@
+#heading{
+    color: rgb(254, 251, 220);
+}
+
+#para{
+    color: rgb(35, 124, 154);
+}
+
+#topics-container{
+    background-color: lightblue;
+    width: 25%;
+    padding: 20px;
+}
